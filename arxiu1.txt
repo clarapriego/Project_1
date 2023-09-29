@@ -1,0 +1,3 @@
+arxiu 1 -v1! > arxiu1.txt
+
+echo arxiu 1 -v1!
